@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Vulnx 🕷️ is An Intelligent Bot Auto Shell Injector that detects vulnerabilities in multiple types of Cms </h4>
+<h4 align="center">Vulnx 🕷️ hörümçək çoxsaylı sms zəifliklərini aşkarlayan ağıllı bir bot avtomatik qabıq enjektorudur. </h4>
 
 <p align="center">
    <a href="https://github.com/anouarbensaad/vulnx/releases">
@@ -35,49 +35,48 @@ https://github.com/anouarbensaad/vulnx/archive/master.zip
   <a href="https://github.com/anouarbensaad/vulnx/wiki/Vulnx-Library">Library</a> •
 </p>
 
-**Vulnx** is An Intelligent Bot Auto [Shell Injector](https://github.com/anouarbensaad/vulnx/wiki/Usage#run-exploits) that detects vulnerabilities in multiple types of Cms, fast cms detection,informations gathering and vulnerabilitie Scanning of the target like subdomains, ipaddresses, country, org, timezone, region, ans and more ...
+**Vulnx** çoxsaylı sms, sürətli cms aşkarlanması, məlumat toplama zəifliklərini aşkarlayan Ağıllı Bot Auto [Shell Enjector] (https://github.com/anouarbensaad/vulnx/wiki/Usage#run-exploits). və subabilains, ipaddresses, country, org, timezone, region, ans və daha çox kimi hədəfin taranması ...
 
-Instead of injecting each and every shell manually like all the other tools do, VulnX analyses the target website checking the presence of a vulnerabilitie if so the shell will be Injected.searching urls with [dorks](https://github.com/anouarbensaad/vulnx/wiki/Usage#searching-dorks) Tool. 
-
--------------------------------------
-
-### _🕷️ Features_
-
-- Detects cms (wordpress, joomla, prestashop, drupal, opencart, magento, lokomedia)
-- Target informations gatherings
-- Target Subdomains gathering
-- Multi-threading on demand
-- Checks for vulnerabilities
-- Auto shell injector
-- Exploit dork searcher
-- [`Ports Scan`](https://user-images.githubusercontent.com/23563528/58365946-40a83a00-7ec3-11e9-87c5-055ed67109b7.jpg) High Level
-- [`Dns`](https://user-images.githubusercontent.com/23563528/58365784-09388e00-7ec1-11e9-8a05-e71fa39f146d.png)-Servers Dump
-- Input multiple target to scan.
-- Dorks Listing by Name& by ExploitName.
-- Export multiple target from Dorks into a logfile.
+Bütün digər alətlər kimi hər bir qabığa əl ilə enjekte etmək əvəzinə, VulnX, hədəfin veb saytını bir həssaslığın mövcudluğunu yoxlayır, əgər qabıq enjekte edilsə. URL'ləri [dorks] ilə axtarın (https://github.com/anouarbensaad / vulnx / wiki / Usage # searching-dorks) Alət.
 
 -------------------------------------
 
+### _🕷️ Xüsusiyyətlər _
 
-### _🕷️ DNS-Map-Results_
+- Cms (wordpress, joomla, prestashop, drupal, açıq kart, magento, lokomedia) aşkarlayır
+- Hədəf məlumat yığıncaqları
+- Hədəf Subdomains toplanması
+- Tələbə görə çox dişli
+- Zəifliklərin yoxlanılması
+- Avtomatik qabıq enjektoru
+- Dork axtarışını istismar edin 
+- [`Ports Scan`](https://user-images.githubusercontent.com/23563528/58365946-40a83a00-7ec3-11e9-87c5-055ed67109b7.jpg) Yüksək Səviyyə 
+- [`Dns`](https://user-images.githubusercontent.com/23563528/58365784-09388e00-7ec1-11e9-8a05-e71fa39f146d.png) -Servers Dump 
+- Taramaq üçün birdən çox hədəfi daxil edin.
+- Adı və ExploitName tərəfindən Dork Listing.
+- Dork-dan bir çox hədəfi bir qeyd sənədinə ixrac edin. 
 
-To do this,run a scan with the --dns flag and -d for subdomains.
-To generate a map of isetso.rnu.tn, you can run the command 
-`vulnx -u isetso.rnu.tn --dns -d --output $PATH`in a new terminal.
+-------------------------------------
 
-`$PATH` : Where the graphs results will be stored.
+
+### _🕷️ DNS-Xəritə-Nəticələr_
+
+Bunu etmək üçün, alt domenlər üçün --dns bayrağı və -d ilə bir tarama aparın.
+İsetso.rnu.tn xəritəsini yaratmaq üçün əmri işə sala bilərsiniz
+`vulnx -u isetso.rnu.tn --dns -d - $ PATH`yeni bir terminalda çıxartmaq.
+
+`$ PATH`: Qrafik nəticələrinin harada saxlanacağı. 
 
 ![vokoscreen-2019-06-19_05-44-07](https://user-images.githubusercontent.com/23563528/59737395-696ae780-9255-11e9-9e09-26416de89bee.gif)
 
 
-Let's generates an image displaying target Subdomains,MX & DNS data.
-
+Hədəf Subdomains, MX & DNS məlumatlarını göstərən bir şəkil yaradırıq.
 
 ![demo](https://i.ibb.co/WfdhvWC/isetso-rnu-tn.png)
 
 -------------------------------------
 
-### _🕷️ Exploits_
+### _🕷️ İstismarlar_
 <h1 align="center">
 <a href="https://github.com/anouarbensaad/VulnX"><img src="https://user-images.githubusercontent.com/23563528/59737042-06c51c00-9254-11e9-87f8-876b33c87be1.gif" alt="Exploits Running"></a>
 </h1>
@@ -155,9 +154,9 @@ Let's generates an image displaying target Subdomains,MX & DNS data.
 
 -------------------------------------
 
-### _🕷️ VulnxMode_ 
-`NEW`
-vulnx now have an interactive mode.
+### _🕷️ VulnxMode_
+`YENİ`
+vulnx artıq interaktiv bir rejimə sahibdir.
 ***URLSET***
 
 ![vulnxmode_url](https://user-images.githubusercontent.com/23563528/68983791-fddd7400-080c-11ea-8e2b-c463a2c8f8c5.png)
@@ -170,31 +169,31 @@ vulnx now have an interactive mode.
 
 
 
-### _🕷️ Available command line options_
-[`READ VULNX WIKI`](https://github.com/anouarbensaad/vulnx/wiki/Usage)
+### _🕷️ Mövcud komanda xətti seçimləri_
+[`VULNX WIKI'yi oxuyun`](https://github.com/anouarbensaad/vulnx/wiki/Usage)
 
-    usage: vulnx [options]
+    istifadə: vulnx [seçimlər]
     
-      -u --url              url target
-      -D --dorks            search webs with dorks
-      -o --output           specify output directory
-      -t --timeout          http requests timeout
-      -c --cms-info         search cms info[themes,plugins,user,version..]
-      -e --exploit          searching vulnerability & run exploits
-      -w --web-info         web informations gathering
-      -d --domain-info      subdomains informations gathering
-      -l, --dork-list       list names of dorks exploits
-      -n, --number-page     number page of search engine(Google)
-      -p, --ports           ports to scan
-      -i, --input           specify domains to scan from an input file 
-      --threads             number of threads
-      --dns                 dns informations gathering
+      -u - url url hədəfi
+      -D - Dork ilə axtarış şəbəkələrini pisləşdirir
+      -o - Çıxış qovluğunu göstərin
+      -t --timeout http istəkləri zaman aşımı
+      -c - cms-info axtarış cms info [mövzular, plaginlər, istifadəçi, versiya ..]
+      -e - axtarış zəifliyini istismar edin və istismarları istifadə edin
+      -w --web-info veb məlumatların toplanması
+      -d - etki-məlumat alt domenlər məlumatların toplanması
+      -l, --dork istismarının siyahı siyahısı
+      -n, - axtarış motorunun say nömrəli səhifə nömrəsi (Google)
+      -p, - tarama üçün limanları dəstəkləyir
+      -i, - giriş faylından taranacaq domenləri daxil edin
+      - sapların sayı
+      --dns dns məlumat toplama 
 
 -------------------------------------
 
 ### _🕷️ Docker_
 
-VulnX in DOCKER !!.
+VulnX DOCKER'da !!.
 
 ```bash
 $ git clone https://github.com/anouarbensaad/VulnX.git
@@ -203,19 +202,18 @@ $ docker build -t vulnx ./docker/
 $ docker run -it --name vulnx vulnx:latest -u http://example.com
 ```
 
-run vulnx container in interactive mode
+vulnx konteynerini interaktiv rejimdə çalışdırın
 
 
 ![vokoscreen-2019-06-23_11-53-20](https://user-images.githubusercontent.com/23563528/59975226-a31d5480-95ad-11e9-8252-ddd8291cbee4.gif)
 
 
-to view logfiles mount it in a volume like so:
+günlük sənədlərinə baxmaq üçün onu belə bir cilddə yerləşdirin:
 
 ```bash
 $ docker run -it --name vulnx -v "$PWD/logs:/VulnX/logs" vulnx:latest -u http://example.com
 ```
-
-change the [mounting directory](https://github.com/anouarbensaad/vulnx/blob/master/docker/Dockerfile#L46)..
+dəyişdirin - [montaj kataloqu](https://github.com/anouarbensaad/vulnx/blob/master/docker/Dockerfile#L46)..
 
 ```Dockerfile
 VOLUME [ "$PATH" ]
@@ -223,8 +221,7 @@ VOLUME [ "$PATH" ]
 
 -------------------------------------
 
-### _🕷️ Install vulnx on Ubuntu_
-
+### _🕷️ Ubuntu_-da vulnx quraşdırın
 
 ```bash
 $ git clone https://github.com/anouarbensaad/vulnx.git
@@ -237,7 +234,7 @@ Now run `vulnx`
 ![vokoscreen-2019-07-05_03-59-48](https://user-images.githubusercontent.com/23563528/60695392-7a645b80-9ed9-11e9-94fb-f6025594a9e3.gif)
 
 
-### _🕷️ Install vulnx on Termux_
+### _🕷️ Termux_-da vulnx quraşdırın
 
 ```BASH
 $ pkg update
@@ -247,15 +244,15 @@ $ cd vulnx
 $ chmod +x install.sh
 $ ./install.sh
 ```
-[**CLICK HERE TO SHOW THE RESULT**](https://user-images.githubusercontent.com/23563528/58364091-98847800-7ea6-11e9-9a9a-c27717e4dda1.png)
+[**NƏTİCƏNİ GÖSTERMƏK ÜÇÜN BURAYI TIKLAYIN**](https://user-images.githubusercontent.com/23563528/58364091-98847800-7ea6-11e9-9a9a-c27717e4dda1.png)
 
 
-### _🕷️ Install vulnx in Windows_
+### _🕷️ Windows-da vulnx quraşdırın
 
-- [click here](https://github.com/anouarbensaad/vulnx/archive/master.zip) to download vulnx
-- download and install python3
+- [bura basın](https://github.com/anouarbensaad/vulnx/archive/master.zip) to download vulnx
+- python3 yükləyin və quraşdırın
 - unzip **vulnx-master.zip** in ***c:/***
-- open the command prompt **cmd**.
+- - **cmd** açın.
 ```
 > cd c:/vulnx-master
 > python vulnx.py
@@ -263,18 +260,18 @@ $ ./install.sh
 
 -------------------------------------
 
-##### example command with options : settimeout=3 , cms-gathering = all , -d subdomains-gathering , run --exploits
+Seçimlərlə ##### misal əmri: settimeout = 3, cms-gathering = all, -d subdomains-gathering, run --exploits
 `vulnx -u http://example.com --timeout 3 -c all -d -w --exploit` 
 
-##### example command for searching dorks : -D or --dorks , -l --list-dorks 
+##### dorkları axtarmaq üçün nümunə əmri: -D və ya --dorks, -l - list-dorks
 `vulnx --list-dorks`
-return table of exploits name.
+istismar adının qaytarılması cədvəli.
 `vulnx -D blaze`
-return urls found with blaze dork
+qayıdan URL-lər alovlu dork ilə tapıldı 
 
 -------------------------------------
 
-### _🕷️ Versions_
+### _🕷️ Versiyalar_
 - [v1.9](https://github.com/anouarbensaad/vulnx/releases/tag/v1.9)
 - [v1.8](https://github.com/anouarbensaad/vulnx/releases/tag/v1.8)
 - [v1.7](https://github.com/anouarbensaad/vulnx/releases/tag/v1.7)
@@ -287,22 +284,21 @@ return urls found with blaze dork
 
 -------------------------------------
 
-### :warning: Warning!
+###: xəbərdarlıq: Xəbərdarlıq!
 
-***I Am Not Responsible of any Illegal Use***
+***Heç bir qanunsuz istifadədən cavabdeh deyiləm!***
 
 -------------------------------------
 
-### _🕷️ Contribution & License_
+### _🕷️ Töhfə və Lisenziya_
 
-You can contribute in following ways:
+Aşağıdakı yollarla töhfə verə bilərsiniz:
 
-- [Report bugs & add issues](https://github.com/anouarbensaad/VulnX/issues/new)
-- Search for new vulnerability
-- Develop plugins
-- Searching Exploits
-- Give suggestions **(Ideas)** to make it better
+- [Xətaları bildirin və problem əlavə edin](https://github.com/anouarbensaad/VulnX/issues/new)
+- Yeni zəiflik axtarın
+- Plugins inkişaf etdirin
+- İstismar Axtarış
+- Daha yaxşı etmək üçün təkliflər **(Fikirlər)** verin
 
-Do you want to have a conversation in private? email me : Bensaad.tig@gmail.com
-
-***VulnX*** is licensed under [GPL-3.0 License](https://github.com/anouarbensaad/VulnX/blob/master/LICENSE)
+Şəxsi söhbət etmək istəyirsiniz? mənə e-poçt: lastomocha@gmail.com və ya Qurucu'nun Gmaili: Bensaad.tig@gmail.com
+***VulnX*** lisenziyalıdır [GPL-3.0 License](https://github.com/LasTOmocha/VulnX/blob/master/LICENSE)
