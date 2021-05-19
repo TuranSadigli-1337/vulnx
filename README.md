@@ -229,7 +229,7 @@ $ cd VulnX
 $ chmod +x install.sh
 $ ./install.sh
 ```
-Now run `vulnx`
+Çalıştırın `vulnx`
 
 ![vokoscreen-2019-07-05_03-59-48](https://user-images.githubusercontent.com/23563528/60695392-7a645b80-9ed9-11e9-94fb-f6025594a9e3.gif)
 
@@ -252,7 +252,7 @@ $ ./install.sh
 - [bura basın](https://github.com/anouarbensaad/vulnx/archive/master.zip) to download vulnx
 - python3 yükləyin və quraşdırın
 - unzip **vulnx-master.zip** in ***c:/***
-- - **cmd** açın.
+- **cmd** açın.
 ```
 > cd c:/vulnx-master
 > python vulnx.py
