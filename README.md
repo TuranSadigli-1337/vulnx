@@ -230,5 +230,5 @@ Aşağıdakı yollarla töhfə verə bilərsiniz:
 - İstismar Axtarış
 - Daha yaxşı etmək üçün təkliflər **(Fikirlər)** verin
 
-Şəxsi söhbət etmək istəyirsiniz? mənə e-poçt: lastomocha@gmail.com və ya Qurucu'nun Gmaili: Bensaad.tig@gmail.com
+Şəxsi söhbət etmək istəyirsiniz? mənə e-poçt: lastomocha@gmail.com və ya qurucu'nun Gmaili: Bensaad.tig@gmail.com
 ***VulnX*** lisenziyalıdır [GPL-3.0 License](https://github.com/LasTOmocha/VulnX/blob/master/LICENSE)
