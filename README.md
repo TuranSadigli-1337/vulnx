@@ -81,76 +81,6 @@ Hədəf Subdomains, MX & DNS məlumatlarını göstərən bir şəkil yaradırı
 <a href="https://github.com/anouarbensaad/VulnX"><img src="https://user-images.githubusercontent.com/23563528/59737042-06c51c00-9254-11e9-87f8-876b33c87be1.gif" alt="Exploits Running"></a>
 </h1>
 
-##### Joomla
-- [x] [Com Jce            ]('#')
-- [x] [Com Jwallpapers    ]('#')
-- [x] [Com Jdownloads     ]('#')
-- [x] [Com Jdownloads2    ]('#')
-- [x] [Com Weblinks       ]('#')
-- [x] [Com Fabrik         ]('#')
-- [x] [Com Fabrik2        ]('#')
-- [x] [Com Jdownloads Index]('#')
-- [x] [Com Foxcontact     ]('#')
-- [x] [Com Blog           ]('#')
-- [x] [Com Users          ]('#')
-- [x] [Com Ads Manager    ]('#')
-- [x] [Com Sexycontactform]('#')
-- [x] [Com Media          ]('#')
-- [x] [Mod_simplefileupload]('#')
-- [x] [Com Facileforms    ]('#')
-- [x] [Com Facileforms    ]('#')
-- [x] [Com extplorer      ]('#')
-
-##### Wordpress
-- [x] [Simple Ads Manager   ](https://www.exploit-db.com/exploits/36614)
-- [x] [InBoundio Marketing  ](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_inboundio_marketing_file_upload) 
-- [x] [WPshop eCommerce     ](https://www.rapid7.com/db/modules/exploit/unix/webapp/wp_wpshop_ecommerce_file_upload)
-- [x] [Synoptic             ](https://cxsecurity.com/issue/WLB-2017030099) 
-- [x] [Showbiz Pro          ](https://www.exploit-db.com/exploits/35385) 
-- [x] [Job Manager          ](https://www.exploit-db.com/exploits/45031) 
-- [x] [Formcraft            ](https://www.exploit-db.com/exploits/30002)
-- [x] [PowerZoom            ](http://www.exploit4arab.org/exploits/399)
-- [x] [Download Manager     ](https://www.exploit-db.com/exploits/35533)
-- [x] [CherryFramework      ](https://www.exploit-db.com/exploits/45896)
-- [x] [Catpro               ](https://vulners.com/zdt/1337DAY-ID-20256)
-- [x] [Blaze SlideShow      ](https://0day.today/exploits/18500)
-- [x] [Wysija-Newsletters   ](https://www.exploit-db.com/exploits/33991)
-
-##### Drupal
-- [ ] [Add Admin            ]('#')
-- [ ] [Drupal BruteForcer   ]('#')
-- [ ] [Drupal Geddon2       ]('#')
-
-##### PrestaShop
-- [x] [attributewizardpro   ]('#')
-- [x] [columnadverts        ]('#')
-- [ ] [soopamobile          ]('#')
-- [x] [pk_flexmenu          ]('#')
-- [x] [pk_vertflexmenu      ]('#')
-- [x] [nvn_export_orders    ]('#')
-- [x] [megamenu             ]('#')
-- [x] [tdpsthemeoptionpanel ]('#')
-- [ ] [psmodthemeoptionpanel]('#')
-- [x] [masseditproduct      ]('#')
-- [ ] [blocktestimonial     ]('#')
-- [x] [soopabanners         ]('#')
-- [x] [Vtermslideshow       ]('#')
-- [x] [simpleslideshow      ]('#')
-- [x] [productpageadverts   ]('#')
-- [x] [homepageadvertise    ]('#')
-- [ ] [homepageadvertise2   ]('#')
-- [x] [jro_homepageadvertise]('#')
-- [x] [advancedslider       ]('#')
-- [x] [cartabandonmentpro   ]('#')
-- [x] [cartabandonmentproOld]('#')
-- [x] [videostab            ]('#')
-- [x] [wg24themeadministration]('#')
-- [x] [fieldvmegamenu       ]('#')
-- [x] [wdoptionpanel        ]('#')
-
-##### Opencart
-- [ ] [Opencart BruteForce]('#')
-
 
 -------------------------------------
 
@@ -284,7 +214,7 @@ qayıdan URL-lər alovlu dork ilə tapıldı
 
 -------------------------------------
 
-###: xəbərdarlıq: Xəbərdarlıq!
+###: Xəbərdarlıq!
 
 ***Heç bir qanunsuz istifadədən cavabdeh deyiləm!***
 
